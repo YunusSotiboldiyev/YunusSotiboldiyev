@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YunusSotiboldiyev
 - 👀 I’m interested in Gaming and writing code
-- 🌱 I’m currently learning React JS Framework
+- 🌱 I’m currently learning Next JS
 - 📫 How to reach me write to my email
 
 
