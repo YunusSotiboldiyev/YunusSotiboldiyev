@@ -1,10 +1,5 @@
 <h1 align="center">👋 Hi, I'm Yunus Sotiboldiyev</h1>
 
-<p align="center">
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
 
 ## 🔥 About Me
 
@@ -41,8 +36,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical">
+
 </p>
 
 ---
