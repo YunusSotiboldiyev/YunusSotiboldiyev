@@ -36,39 +36,60 @@
 
 #### 🖥️ Frontend
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" title="Framer Motion" alt="Framer Motion" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML" alt="HTML" width="120" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS" alt="CSS" width="120" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" title="JavaScript" alt="JavaScript" width="120" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" title="React" alt="React" width="120" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" title="Next.js" alt="Next.js" width="120" />
+  &nbsp;
+  <!-- Vue badge with white logo -->
+  <img src="https://img.shields.io/badge/-Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=white" title="Vue.js" alt="Vue.js" width="120" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" title="Tailwind CSS" alt="Tailwind" width="120" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white" title="Framer Motion" alt="Framer Motion" width="120" />
 </p>
 
 #### ⚙️ Backend / Database
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js" alt="Node.js" width="120" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express.js" alt="Express.js" width="120" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" alt="MongoDB" width="120" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman" alt="Postman" width="120" />
 </p>
 
 #### 🧰 Tools & Platforms
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" width="120" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub" alt="GitHub" width="120" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" title="Vercel" alt="Vercel" width="120" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" title="Netlify" alt="Netlify" width="120" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" title="NPM" alt="NPM" width="120" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" title="VS Code" alt="VS Code" width="120" />
 </p>
 
 #### 🎨 Design Tools
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" title="Adobe XD" alt="Adobe XD" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
+  <!-- Figma badge with white logo -->
+  <img src="https://img.shields.io/badge/-Figma-111827?style=for-the-badge&logo=figma&logoColor=white" title="Figma" alt="Figma" width="150" />
+  &nbsp;
+  <!-- Adobe XD badge with white logo -->
+  <img src="https://img.shields.io/badge/-Adobe_XD-111827?style=for-the-badge&logo=adobe-xd&logoColor=white" title="Adobe XD" alt="Adobe XD" width="150" />
+  &nbsp;
+  <!-- Canva badge with white logo -->
+  <img src="https://img.shields.io/badge/-Canva-111827?style=for-the-badge&logo=canva&logoColor=white" title="Canva" alt="Canva" width="150" />
 </p>
 
 ---
