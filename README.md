@@ -35,8 +35,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YunusSotiboldiyev&show_icons=true&theme=radical" alt="Yunus's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunusSotiboldiyev&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunusSotiboldiyev&layout=compact&theme=radical" alt="Top Languages" width="90%" />
 </p>
 
 ---
