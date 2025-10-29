@@ -42,7 +42,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" title="Tailwind CSS" alt="Tailwind" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" title="Framer Motion" alt="Framer Motion" width="40" height="40"/>&nbsp;
 </p>
 
@@ -67,7 +67,7 @@
 #### 🎨 Design Tools
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" title="Adobe XD" alt="Adobe XD" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" title="Adobe XD" alt="Adobe XD" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
 </p>
 
