@@ -121,7 +121,7 @@
   <a href="https://www.linkedin.com/in/yunus-sotiboldiyev-328514306/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://t.me/kaktus_709" target="_blank">
+  <a href="https://t.me/cactus496" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:yunussotiboldiyev45@gmail.com">
